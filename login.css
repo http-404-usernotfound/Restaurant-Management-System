@@ -1,0 +1,27 @@
+#box {
+    height: 150px;
+    width: 400px;
+    background-color: #6a6a65;
+    border-radius: 20px;
+    position: absolute;
+    left: 480px;
+    top: 200px;
+}
+
+#shadowbox{
+    height: 150px;
+    width: 400px;
+    background-color: #000000;
+    opacity: 0.2;
+    border-radius: 20px;
+    position: absolute;
+    left: 485px;
+    top: 210px;
+}
+
+#login{
+    vertical-align: middle;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}

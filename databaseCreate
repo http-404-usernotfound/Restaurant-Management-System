@@ -1,0 +1,7 @@
+use Restaurant
+
+db.createCollection("menu");
+db.createCollection("employees");
+db.createCollection("suppliers");
+
+
